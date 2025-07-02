@@ -1,4 +1,5 @@
 Hi, I'm Kishlay Kumar aka beyondcode776
+
 A passionate B.Tech CSE student with a strong love for technology, development, and open-source contributions.
 
 My Current Focus
@@ -6,7 +7,7 @@ I'm actively learning and exploring:
 -  Web Development
 -  Java Programming
 -  Python
--
+
 Interests
 Some areas that excite me:
 -  Game Development
@@ -28,7 +29,7 @@ To become a **GitHub Campus Expert** in 2025 and contribute to the global tech c
  Areas I Love Talking About
 -  Git & GitHub
 -  HTML, CSS, JavaScript
--  Python and C programming basics
+-  Python and Java programming 
 -  Community building and mentoring
 
 Fun Fact
